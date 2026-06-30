@@ -1,9 +1,9 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-email: zackzikaixiao@gmail.com # your email address
+email: zikai@zju.edu.cn # your email address
+scholar_userid: d5G1eV0AAAAJ # your Google Scholar ID
 github_username: ZackZikaiXiao # your GitHub username
-# scholar_userid: # TODO: your Google Scholar ID (the string after "user=" in your Scholar profile URL)
-# linkedin_username: # TODO: your LinkedIn vanity name (the part after /in/)
-# x_username: # TODO: your X/Twitter handle (without @)
+# linkedin_username: # add your LinkedIn vanity name (the part after /in/) to show the icon
+# x_username: # add your X/Twitter handle (without @) to show the icon
 rss_icon: false # set true to show the RSS icon
