@@ -6,8 +6,6 @@ subtitle: Ph.D. Student, <a href="https://www.zju.edu.cn/english/">Zhejiang Univ
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ph.D. Student, Zhejiang University</p>
     <p>Research Intern, Qwen Team · Alibaba</p>
