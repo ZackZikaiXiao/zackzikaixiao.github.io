@@ -4,13 +4,6 @@ title: about
 permalink: /
 subtitle: Ph.D. Student, <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> · Research Intern, <a href="https://qwen.ai/">Qwen Team</a>, Alibaba
 
-profile:
-  align: right
-  more_info: >
-    <p>Ph.D. Student, Zhejiang University</p>
-    <p>Research Intern, Qwen Team · Alibaba</p>
-    <p><a href="mailto:zikai@zju.edu.cn">zikai@zju.edu.cn</a></p>
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
