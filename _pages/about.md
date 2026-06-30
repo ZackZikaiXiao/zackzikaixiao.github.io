@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am **Zikai Xiao** (肖子恺), a Ph.D. student in Computer Science and Technology at [Zhejiang University](https://www.zju.edu.cn/english/) (2022–2027). I am currently a Research Intern at the **[Qwen Team](https://qwen.ai/), Alibaba**, where I work on agentic reinforcement learning and world models for the Qwen models.
+I am **Zikai Xiao** (肖子恺), a Ph.D. student in Computer Science and Technology at [Zhejiang University](https://www.zju.edu.cn/english/) (2022–2027), advised by Prof. [Zuozhu Liu](https://scholar.google.com/citations?user=h602wLIAAAAJ). I am currently a Research Intern at the **[Qwen Team](https://qwen.ai/), Alibaba**, where I work on agentic reinforcement learning and world models with [Fei Huang](https://scholar.google.com/citations?user=7udAEzMAAAAJ) and [Jianhong Tu](https://scholar.google.com/citations?user=EvVKNrAAAAAJ).
 
 My research centers on **large language models**, with a focus on:
 
